@@ -6,7 +6,7 @@ This is about the other serviecs which i have experianced in January 2021. We ha
 
 ## Table Of Content:-
 1. [Detailed](#Detailed)
-2. [Overall_Keynotes](#Overall_Keynotes)
+2. [Keynotes](#Keynotes)
 3. [Summary](#Summary)
 
 
@@ -24,7 +24,7 @@ This is about the other serviecs which i have experianced in January 2021. We ha
 |8.|Incident Description|We wanted to paint the our whole house for wedding ceremony of elder brother. We had contact with local painter for this. We have discussed with painter for material and services charges. But after 2-3 days painter was not come for painting.We were felt unsatisfactory and argue with that painter. But somehow painter completed their work after Wedding Ceremony. But we were not satisfied with that.
 
 
-## Overall_Keynotes:-
+## Keynotes:-
 
 1. Expected task completion duaration was 11 days.
 2. Task Completion duration 20 days.
