@@ -1,8 +1,8 @@
 # Other Service Analysis
 
 ## Table Of Content:-
-1. [Detailed](#detailed)
-2. [Overall_Keynotes](#overall_keynotes)
+1. [Detailed](#Detailed)
+2. [Overall_Keynotes](#Overall_Keynotes)
 3. [Summary](#Summary)
 
 
