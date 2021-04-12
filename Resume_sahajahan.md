@@ -1,14 +1,9 @@
-<img align="center" src="https://lh3.googleusercontent.com/vlcD6VMsvb3kQJppHysHGB2jG6DncaOtK8mEQH-4VEXaO15m-PBcZN7V5KNC_GyVQd1QR7nSSt9dEjzUNNv8WeH3ydpMx5WYZ9o0D5oakZ2hM2M0C-O_3S8l_yYX7cJl62QhPtBLAMJODueWUisAHsuqz6R0yNPAzjC50O4aXywvnLp14lQIEMBTk7ZTyF5QdMs7sIVjTbfL1CUzF7KHAhYtaXYxw81z5zcpAlLCYKANQWaEXEhUaPO4wpC-NEDbEOriAU-R5i6LDUiNmxToVleDWWUfM4fiP_Tqgi6443KnWp6zJ1t7Okyl8plKp35bKUh-u4tXLPK5VbNxqx1QJxQAyjr0ktKwkb0EBY8YVxe5qq06-46psGBdNMzbu6jDpkkf_j9BlSTKvX8DrFgBklb4uABPjvPRiNcPi_MM6nWEND-rzvvbOzkUXyvDEUfB46ClcDrqb5plOhOrRPFBBVew5unpnFNtFj9tL0_q9-QszEd9SPucBoWtM92XsueH5lU7RWYCLNRFf9uYQXnIoVvGwyb0qQBR1AryaJ5NJtv8qvJbTONZx3oljqjLKYjhr17lnAYurnzSYE85aGbdse6w0mQKdNsrZq3C9G0h4rJd2cxycSeV0nbhYYG5hrYbOiLgZyRuemZZ9V1HQvG-w9rKM-Y4MUZFKapZNLlbXJtk9oPPYHV4PVssls0T1CGad-EVJFOKrXGw53V2ED4skEp_=w500-h667-no?authuser=0" 
-     width="200" 
-     height="250" />
-
-
 <h1 align="center"> SK Sahajahan </h1>
 <h3 align="center"> -:An Administrator learning Linux and DevOps in baby Steps:- </h3>
 
 <h3 align="Center">Connect With Me On Social Media</h3>
 <p align="center">
-<a href="https://twitter.com/I_Am_Sahajahan" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/124/124021.svg?token=exp=1618260466~hmac=72aa045b798bcc3d2aa37ca5ab57b47a" alt="SK Sahajahan" height="30" width="40" /></a> 
+<a href="https://twitter.com/I_Am_Sahajahan" target="blank"><img align="center" src="https://as2.ftcdn.net/jpg/01/15/63/37/500_F_115633770_eW4YFq7wORcielto9JPDsqAKys7Y54HZ.jpg"  height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/sk-sahajahan-22a424122/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1618260603~hmac=7b44281a92d05fb80b08fe6dbb90b141" alt="SK Sahajahan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/i_am_sahajahan/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1618260864~hmac=460eee4c79f1394a1f2811c572cd6a69" alt="Sk Sahajahan" height="30" width="40" /></a>
 <a href="https://github.com/sahajahanshaikh" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png" alt="SK Sahajahan" height="30" width="40" /></a>
