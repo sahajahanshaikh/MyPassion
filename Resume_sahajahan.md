@@ -4,8 +4,8 @@
 <h3 align="Center">Connect With Me On Social Media</h3>
 <p align="center">
 <a href="https://twitter.com/I_Am_Sahajahan" target="blank"><img align="center" src="https://as2.ftcdn.net/jpg/01/15/63/37/500_F_115633770_eW4YFq7wORcielto9JPDsqAKys7Y54HZ.jpg"  height="30" width="40" /></a> 
-<a href="https://www.linkedin.com/in/sk-sahajahan-22a424122/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1618260603~hmac=7b44281a92d05fb80b08fe6dbb90b141" alt="SK Sahajahan" height="30" width="40" /></a>
-<a href="https://www.instagram.com/i_am_sahajahan/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1618260864~hmac=460eee4c79f1394a1f2811c572cd6a69" alt="Sk Sahajahan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sk-sahajahan-22a424122/" target="blank"><img align="center" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38764/preview.svg" alt="SK Sahajahan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/i_am_sahajahan/" target="blank"><img align="center" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38580/preview.svg" alt="Sk Sahajahan" height="30" width="40" /></a>
 <a href="https://github.com/sahajahanshaikh" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png" alt="SK Sahajahan" height="30" width="40" /></a>
 <a href="https://www.facebook.com/saikhshajahan" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="SK Sahajahan" height="30" width="40" /></a>
 <a href="mailto:saikhshajahan@gmail.com" target="blank"><img align="center" src="https://seeklogo.net/wp-content/uploads/2020/10/gmail-logo.png" alt="SK Sahajahan" height="50" width="60" /></a>
