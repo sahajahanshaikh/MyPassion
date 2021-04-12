@@ -1,3 +1,5 @@
+<img align="right" src="https://lh3.googleusercontent.com/_UJjN5E_nGL4Dk3ljOflkNdzFeigWSMUiXD2ekLroisBGqr2_W7f0wOAih5YHgAdlq4Uqkd-Gp4op7qW6IGgeQ5L78QehqYtW8PSjs8b12yNb0tC0Ry2o-TYni125F8L2tjOJ6sZ_jMDInC1NpFniUCqL2mR3mOWdZY5djskCRf902Z-PT7y5rL654VVtCf8rK-ZM4-rtN_qL4UzxNAtNUItiBEEUuzWYGUCY1a8aF4tqIoxLHL58yyDl-M2pPuKx0Co9iLTB4jQIvIe1ZkJFUBLkadAzp4j0KEmWwHujTRE7cb-fK4oASbk8VwqKvSeCo4IABNL3A8zl73rVrXGKJUMwuCLV-RQjASo2EA515wajNEHj-iaHB0KIpAJ0xLF2BZLD-Z97_W4DNr1c3F8BhjFR-bNy8ayKk0UvQwPa-rHtp8RwVcHavZAvsIwZi0_WJ6RtOHWF-x7IyN4zmjDvJ_vncE9onqly5Sz67dE2OCp3xjvwsPN9DZ3IzplGlemgKx5WKQPOIXN_LgPkqnSwfYJ4r0czpvAIUWDDSoukPdTugBduuMCFvx0KdkSHLStRqf2MTd5KCUo6zBxhuSTArM8OxbWSPCl9-Tr45j9Mxg0-CtKQA7-CUHE5pC1wJECxmOF_A78OarWbeFXm02iTI4p31K3fF0zyaHsQBHYl5Wga7g0LS2m_-I4XhWTr1qbFHwYS2lwLE8ZJTfUgVcSUAnf=w732-h667-no?authuser=0"  height="300" width="300" /></a> 
+
 <h1 align="center"> SK Sahajahan </h1>
 <h3 align="center"> -:An Administrator learning Linux and DevOps in baby Steps:- </h3>
 
@@ -13,7 +15,7 @@
 
 
 
-*"I am inviting you to have a sneak-peak into my Resume."*
+<h3 align="center">***I am inviting you to have a sneak-peak into my Resume.***</h3>
 
 
 ## Career Objective:-
